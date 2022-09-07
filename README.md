@@ -8,9 +8,9 @@ Experienced and reliable "jack of all trades" with a strong focus on developing 
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [How to Fix PostgreSQL Performance Issues with PG Extras](https://app.daily.dev/posts/O8BXDuu9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [100 underline/overlay animations | The ultimate CSS collection](https://app.daily.dev/posts/y9CFOUC5v?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [Thinking in Hotwire: Progressive Enhancement](https://app.daily.dev/posts/TaXY58Sky?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [Advanced CSS Tricks That You Have To Know](https://app.daily.dev/posts/iKH5fd17Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [Productivity Porn](https://app.daily.dev/posts/CS7uwkn9o?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
-- [Scaling Sidekiq at Gusto](https://app.daily.dev/posts/KKQ7CQEFw?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 <!-- BOOKMARKS:END -->

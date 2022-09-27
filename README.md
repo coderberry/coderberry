@@ -8,9 +8,9 @@ Experienced and reliable "jack of all trades" with a strong focus on developing 
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Rails: Postgres Native Partitioning](https://app.daily.dev/posts/cpuMROXiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [How Ruby and Web Components Can Work Together](https://app.daily.dev/posts/MZz3lUTpn?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [Galaxy brain CSS tricks with Hotwire and Rails](https://app.daily.dev/posts/6oTxrFQsV?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://app.daily.dev/posts/UY8RsWANO?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [How to Fix PostgreSQL Performance Issues with PG Extras](https://app.daily.dev/posts/O8BXDuu9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
-- [100 underline/overlay animations | The ultimate CSS collection](https://app.daily.dev/posts/y9CFOUC5v?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 <!-- BOOKMARKS:END -->

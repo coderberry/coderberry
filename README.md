@@ -8,9 +8,9 @@ Experienced and reliable "jack of all trades" with a strong focus on developing 
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [11ty/webc: Single File Web Components](https://app.daily.dev/posts/8HaBCSZ16?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [GPT-3 Powers the Next Generation of Apps](https://app.daily.dev/posts/sbE32cTj4?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [Rails: Postgres Native Partitioning](https://app.daily.dev/posts/cpuMROXiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [How Ruby and Web Components Can Work Together](https://app.daily.dev/posts/MZz3lUTpn?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 - [Galaxy brain CSS tricks with Hotwire and Rails](https://app.daily.dev/posts/6oTxrFQsV?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
-- [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://app.daily.dev/posts/UY8RsWANO?utm_source=rss&utm_medium=bookmarks&utm_campaign=7c2eeff1f1b542d5b0d1edc7213a6cc7)
 <!-- BOOKMARKS:END -->
